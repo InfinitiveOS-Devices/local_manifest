@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- LG G3 Device Tree and kernel -->
+  <project path="device/lge/g3-common" name="InfinitiveOS-Devices/android_device_lge_g3-common" revision="io-1.0" />
+  <project path="device/lge/d855" name="InfinitiveOS-Devices/android_device_lge_d855" revision="io-1.0" />
+  <project path="device/lge/g3" name="InfinitiveOS-Devices/android_kernel_lge_g3" revision="io-1.0" />
+  
+  <!-- Qcom Common Device Tree -->
+  <project path="device/qcom/common" name="InfinitiveOS-Devices/android_device_qcom_common" revision="io-1.0" />
+
+</manifest>
