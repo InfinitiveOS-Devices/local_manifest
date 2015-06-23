@@ -5,11 +5,11 @@
            fetch="https://github.com/InfinitiveOS-Devices" />
 
   <!-- LG G3 Device Tree and kernel -->
-  <project path="device/lge/g3-common" name="InfinitiveOS-Devices/android_device_lge_g3-common" remote="iod" revision="io-1.0" />
-  <project path="device/lge/d855" name="InfinitiveOS-Devices/android_device_lge_d855" remote="iod" revision="io-1.0" />
-  <project path="device/lge/g3" name="InfinitiveOS-Devices/android_kernel_lge_g3" remote="iod" revision="io-1.0" />
+  <project path="device/lge/g3-common" name="android_device_lge_g3-common" remote="iod" revision="io-1.0" />
+  <project path="device/lge/d855" name="android_device_lge_d855" remote="iod" revision="io-1.0" />
+  <project path="device/lge/g3" name="android_kernel_lge_g3" remote="iod" revision="io-1.0" />
   
   <!-- Qcom Common Device Tree -->
-  <project path="device/qcom/common" name="InfinitiveOS-Devices/android_device_qcom_common" remote="iod" revision="io-1.0" />
+  <project path="device/qcom/common" name="android_device_qcom_common" remote="iod" revision="io-1.0" />
 
 </manifest>
